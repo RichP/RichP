@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichP
-- 👀 I’m interested in iOS SwiftUI,  Metal and Django
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in iOS SwiftUI, Metal, Unity, Unreal and Django
+- 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
